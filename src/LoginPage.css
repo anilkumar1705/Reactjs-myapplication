@@ -1,0 +1,46 @@
+body {
+    background-image: url("C:\Users\Anilp\Desktop\React JS\myapplication\background_35_2UDIpF7.wide.jpeg");
+  
+  }
+  .login-container {
+   
+
+    /* Center alignment */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+  }
+  
+  .login-container h1 {
+    text-align: center;
+  }
+  
+  .login-container form {
+    margin-top: 20px;
+  }
+  
+  .login-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .login-container input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .login-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
